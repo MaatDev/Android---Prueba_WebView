@@ -1,0 +1,20 @@
+#game {
+	position:relative;
+	width:200px;
+	height:300px;
+}
+
+#canvas {
+	position:absolute;
+	top:0;
+	left:0;
+	border:1px solid #ccc;
+}
+
+.board {
+	position:absolute;
+	top:0;
+	left:0;
+	border:1px solid #ccc;
+}
+
